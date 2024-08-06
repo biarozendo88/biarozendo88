@@ -9,3 +9,6 @@ Meu nome é Bianca Rozendo 💋
 compartilhamento dos meus projetos desenvolvidos
 
 Eu amo ler e aprender coisas novas.💋
+
+📮-para entrar em contato comigo:
+biancarozendo250@gmail.com
