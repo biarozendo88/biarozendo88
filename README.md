@@ -1,16 +1,11 @@
-## Hi there 👋
+Meu nome é Bianca Rozendo 💋
 
-<!--
-**biarozendo88/biarozendo88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+❤️- Estou estudando na [Alura](https://www.alura.com.br)
 
-Here are some ideas to get you started:
+🍒- Estou me desenvolvendo na linguagem JavaScript 🍒
 
-- 🔭 I’m currently working on: atualmente não tenho nenhum
-- 🌱 I’m currently learning: tecnologia robotica
-- 👯 I’m looking to collaborate on: eu estou procurando colaborar nas aulas
-- 🤔 I’m looking for help with: com as materias dadas
-- 💬 Ask me about:MINHA VIDA
-- 📫 How to reach me:BIANCAROZENDO250@GMAIL.COM
-- 😄 Pronouns: ELA DELA
-- ⚡ Fun fact: SOU COMENTARISTA
--->
+🍎- Utilizo esse espaço para minha organização e 
+
+compartilhamento dos meus projetos desenvolvidos
+
+e amo ler aprender coisas novas.💋
